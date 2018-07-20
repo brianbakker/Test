@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_user" label="Marketing User" max_length="40" name="x_snc_marketing_in_marketing_user" type="collection"/>
+</database>
